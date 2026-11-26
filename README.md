@@ -2,6 +2,8 @@
 
 Clinical and point-of-care ultrasound (hemodynamic) data from patients with PCR-confirmed Lassa fever. Each patient had up to three serial bedside exams, and the dataset records their outcome (discharge or death).
 
+> Disclaimer. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we'll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
+
 ## Files
 
 * `data/lassa_hemodynamic_dataset_cleaned.csv`
