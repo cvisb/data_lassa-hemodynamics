@@ -4,9 +4,7 @@ Clinical and point-of-care ultrasound (hemodynamic) data from patients with PCR-
 
 ## Files
 
-| File | Description |
-|---|---|
-| `data/lassa_hemodynamic_dataset_cleaned.csv` | CSV export of `Sheet1`: 35 rows × 58 columns, UTF-8, comma-delimited, dates as `YYYY-MM-DD`, empty cells for missing values |
+* `data/lassa_hemodynamic_dataset_cleaned.csv`
 
 ## Cohort summary
 
